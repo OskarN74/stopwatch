@@ -2,6 +2,8 @@
 
 A simple Javascript stopwatch, written in es2015, using webpack.
 
+<a href="https://stopwatch.oskarnijs.nl/">Demo</a>
+
 ## Project setup
 ```
 npm install
