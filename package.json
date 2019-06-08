@@ -1,6 +1,6 @@
 {
   "name": "stopwatch",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "A simple Javascript stopwatch, written in es2015, using webpack.",
   "private": true,
   "scripts": {
@@ -15,12 +15,12 @@
     "eslint": "^5.16.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.17.3",
-    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-node": "^9.1.0",
     "eslint-plugin-promise": "^4.1.1",
     "eslint-plugin-standard": "^4.0.0",
-    "file-loader": "^3.0.1",
+    "file-loader": "^4.0.0",
     "html-webpack-plugin": "^3.2.0",
-    "mini-css-extract-plugin": "^0.5.0",
+    "mini-css-extract-plugin": "^0.7.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.33.0",
